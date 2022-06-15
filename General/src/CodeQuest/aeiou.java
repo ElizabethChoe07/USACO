@@ -21,6 +21,8 @@ public class aeiou {
 			}
 			
 			System.out.println(c);
+			
+			
 		}
 
 	}
